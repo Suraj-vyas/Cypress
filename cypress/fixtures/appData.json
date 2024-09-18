@@ -1,0 +1,10 @@
+{
+  "appURL": "https://app.expand.network/",
+  "FromCoinName": "ETH",
+  "FromAmountValue": "123",
+  "ToCoinName": "ETH",
+  "ToAmountValue": "123",
+  "autoDefect": false,
+  "ApiBaseUrl": "https://uat.expand.network",
+  "x_api_key": "TytSO3SsIw98gr6x8ezpI9QFw2LGWVEr8CwUF9Kd"
+}
